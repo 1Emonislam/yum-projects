@@ -1,0 +1,892 @@
+yarn run v1.22.17
+$ yarn workspace tools import:users --file users-2022-04-06.csv --env production --debug --force=ImReallyReallySure --verbose
+$ babel-node -o '../shared' -o '.' -i '../shared/node_modules' -i './node_modules' import-users.js --file users-2022-04-06.csv --env production --debug --force=ImReallyReallySure --verbose
+Importing as per date 2022-04-13
+[tools] › ℹ  info      Importing file /Users/chris/workspace/yam/yam/tools/users-2022-04-06.csv
+
+[tools] › ℹ  info      Importing file /Users/chris/workspace/yam/yam/tools/initial-values.csv
+
+
+
+                                      
+                                      
+             DANGER ZONE              
+                                      
+                                      
+
+
+[tools] › …  awaiting  Seeding protected environment production in 5
+[tools] › …  awaiting  Seeding protected environment production in 4
+[tools] › …  awaiting  Seeding protected environment production in 3
+[tools] › …  awaiting  Seeding protected environment production in 2
+[tools] › …  awaiting  Seeding protected environment production in 1
+[tools] › …  awaiting  Seeding protected environment production in 0
+----------------------
+{
+  '+256703759678': 'strategic-on-browser',
+  '+256703757727': 'camera-compass-scale',
+  '+256701196985': 'founder-tea-mobile',
+  '+256704985105': 'commercial-foton-youth',
+  '+256705492818': 'people-food-test',
+  '+256780394568': 'pant-fork-calendar',
+  '+256755489987': 'galaxy-noodle-save'
+}
+----------------------
+{
+  branches: [],
+  clientGroupMeetings: [],
+  clientGroups: [],
+  clients: [],
+  clientsToUpdate: [],
+  forms: [],
+  holidays: [],
+  loanProducts: [],
+  loans: [],
+  settings: [],
+  users: [
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  86,  4, 56, 82,
+          189, 240, 34, 65, 76,
+          134, 231
+        ]
+      },
+      _seed: 'Shah Alam',
+      firstName: 'Alam',
+      lastName: 'Shah',
+      role: 'regionalManager',
+      branchIds: [
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98, 65, 186, 81,   3,
+            24, 48,  12, 80, 198,
+            44, 87
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  74, 240,  36,  31,
+             96,  65, 210, 226, 229,
+            183, 222
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98,  42, 134,  52, 248,
+            15,  89, 149, 158, 227,
+            25, 248
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98,  42, 134,  52, 248,
+            15,  89, 149, 158, 227,
+            25, 243
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98,  42, 134,  52, 248,
+            15,  89, 149, 158, 227,
+            25, 254
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98,  42, 134,  52, 248,
+            15,  89, 149, 158, 227,
+            25, 237
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  80, 53, 148, 206,
+            161, 120, 91, 121,  35,
+            120, 140
+          ]
+        }
+      ],
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 87
+        ]
+      },
+      fullPhoneNumber: '+256703759678',
+      realmUserId: null
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  86,  4, 56, 82,
+          189, 240, 34, 65, 76,
+          134, 232
+        ]
+      },
+      _seed: 'Rasel Mobarak',
+      firstName: 'Mobarak',
+      lastName: 'Rasel',
+      role: 'regionalManager',
+      branchIds: [
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  80, 53, 148, 206,
+            161, 120, 91, 121,  35,
+            120, 145
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  80, 53, 148, 206,
+            161, 120, 91, 121,  35,
+            120, 151
+          ]
+        }
+      ],
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  80, 53, 148, 206,
+          161, 120, 91, 121,  35,
+          120, 145
+        ]
+      },
+      fullPhoneNumber: '+256703757727',
+      realmUserId: null
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  86,  4, 56, 82,
+          189, 240, 34, 65, 76,
+          134, 233
+        ]
+      },
+      _seed: 'Kamya Charles',
+      firstName: 'Charles',
+      lastName: 'Kamya',
+      role: 'regionalManager',
+      branchIds: [
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  74, 240,  36,  31,
+             96,  65, 210, 226, 229,
+            183, 220
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  74, 240,  36,  31,
+             96,  65, 210, 226, 229,
+            183, 214
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98,  42, 134,  52, 248,
+            15,  89, 149, 158, 227,
+            25, 231
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  80, 53, 148, 206,
+            161, 120, 91, 121,  35,
+            120, 124
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  80, 53, 148, 206,
+            161, 120, 91, 121,  35,
+            120, 130
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  80, 53, 148, 206,
+            161, 120, 91, 121,  35,
+            120, 135
+          ]
+        }
+      ],
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  74, 240,  36,  31,
+           96,  65, 210, 226, 229,
+          183, 220
+        ]
+      },
+      fullPhoneNumber: '+256701196985',
+      realmUserId: null
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  86,  4, 56, 82,
+          189, 240, 34, 65, 76,
+          134, 234
+        ]
+      },
+      _seed: 'Natukunda Miriel',
+      firstName: 'Miriel',
+      lastName: 'Natukunda',
+      role: 'areaManager',
+      branchIds: [
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  74, 240,  36,  31,
+             96,  65, 210, 226, 229,
+            183, 218
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98,  85, 21,  45,  20,
+            39, 129, 22, 148, 140,
+             3,  29
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  47, 184,  79, 171,
+            251, 180, 201, 126, 211,
+            100,  86
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             97,  21, 15,  41, 108,
+            152, 142, 99, 217, 249,
+            202, 101
+          ]
+        }
+      ],
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  74, 240,  36,  31,
+           96,  65, 210, 226, 229,
+          183, 218
+        ]
+      },
+      fullPhoneNumber: '+256704985105',
+      realmUserId: null
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  86,  4, 56, 82,
+          189, 240, 34, 65, 76,
+          134, 235
+        ]
+      },
+      _seed: 'Namukasa Mariam',
+      firstName: 'Mariam',
+      lastName: 'Namukasa',
+      role: 'areaManager',
+      branchIds: [
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98, 65, 186, 81,   3,
+            24, 48,  12, 80, 198,
+            44, 85
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  56, 109, 54, 203,
+            160, 124, 227, 63, 198,
+              2,  85
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  74, 240,  36,  31,
+             96,  65, 210, 226, 229,
+            183, 216
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98, 65, 186, 81,   3,
+            24, 48,  12, 80, 198,
+            44, 89
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98,  85, 21,  45,  20,
+            39, 129, 22, 148, 140,
+             3,  31
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98,  42, 134,  52, 248,
+            15,  89, 149, 158, 227,
+            25, 225
+          ]
+        }
+      ],
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 85
+        ]
+      },
+      fullPhoneNumber: '+256705492818',
+      realmUserId: null
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  86,  4, 56, 82,
+          189, 240, 34, 65, 76,
+          134, 236
+        ]
+      },
+      _seed: 'Akankunda Maria Gemma',
+      firstName: 'Maria Gemma',
+      lastName: 'Akankunda',
+      role: 'areaManager',
+      branchIds: [
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98,  42, 134,  52, 248,
+            15,  89, 149, 158, 227,
+            25, 243
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98, 65, 186, 81,   3,
+            24, 48,  12, 80, 198,
+            44, 87
+          ]
+        },
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+            98,  42, 134,  52, 248,
+            15,  89, 149, 158, 227,
+            25, 248
+          ]
+        }
+      ],
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98,  42, 134,  52, 248,
+          15,  89, 149, 158, 227,
+          25, 243
+        ]
+      },
+      fullPhoneNumber: '+256780394568',
+      realmUserId: null
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  86,  4, 56, 82,
+          189, 240, 34, 65, 76,
+          134, 237
+        ]
+      },
+      _seed: 'Odyek Isaac',
+      firstName: 'Isaac',
+      lastName: 'Odyek',
+      role: 'areaManager',
+      branchIds: [
+        ObjectID {
+          _bsontype: 'ObjectID',
+          id: Buffer(12) [Uint8Array] [
+             98,  74, 240,  36,  31,
+             96,  65, 210, 226, 229,
+            183, 220
+          ]
+        }
+      ],
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  74, 240,  36,  31,
+           96,  65, 210, 226, 229,
+          183, 220
+        ]
+      },
+      fullPhoneNumber: '+256755489987',
+      realmUserId: null
+    }
+  ],
+  securityBalances: []
+}
+Collection branches
+Collection clientGroupMeetings
+Collection clientGroups
+Collection clients
+Collection clientsToUpdate
+Collection forms
+Collection holidays
+Collection loanProducts
+Collection loans
+Collection settings
+Collection users
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+       98,  86,  4, 56, 82,
+      189, 240, 34, 65, 76,
+      134, 231
+    ]
+  },
+  _seed: 'Shah Alam',
+  firstName: 'Alam',
+  lastName: 'Shah',
+  role: 'regionalManager',
+  branchIds: [
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98, 65, 186, 81,   3,
+        24, 48,  12, 80, 198,
+        44, 87
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  74, 240,  36,  31,
+         96,  65, 210, 226, 229,
+        183, 222
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98,  42, 134,  52, 248,
+        15,  89, 149, 158, 227,
+        25, 248
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98,  42, 134,  52, 248,
+        15,  89, 149, 158, 227,
+        25, 243
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98,  42, 134,  52, 248,
+        15,  89, 149, 158, 227,
+        25, 254
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98,  42, 134,  52, 248,
+        15,  89, 149, 158, 227,
+        25, 237
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  80, 53, 148, 206,
+        161, 120, 91, 121,  35,
+        120, 140
+      ]
+    }
+  ],
+  branchId: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 87
+    ]
+  },
+  fullPhoneNumber: '+256703759678',
+  realmUserId: null
+}
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+       98,  86,  4, 56, 82,
+      189, 240, 34, 65, 76,
+      134, 232
+    ]
+  },
+  _seed: 'Rasel Mobarak',
+  firstName: 'Mobarak',
+  lastName: 'Rasel',
+  role: 'regionalManager',
+  branchIds: [
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  80, 53, 148, 206,
+        161, 120, 91, 121,  35,
+        120, 145
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  80, 53, 148, 206,
+        161, 120, 91, 121,  35,
+        120, 151
+      ]
+    }
+  ],
+  branchId: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+       98,  80, 53, 148, 206,
+      161, 120, 91, 121,  35,
+      120, 145
+    ]
+  },
+  fullPhoneNumber: '+256703757727',
+  realmUserId: null
+}
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+       98,  86,  4, 56, 82,
+      189, 240, 34, 65, 76,
+      134, 233
+    ]
+  },
+  _seed: 'Kamya Charles',
+  firstName: 'Charles',
+  lastName: 'Kamya',
+  role: 'regionalManager',
+  branchIds: [
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  74, 240,  36,  31,
+         96,  65, 210, 226, 229,
+        183, 220
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  74, 240,  36,  31,
+         96,  65, 210, 226, 229,
+        183, 214
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98,  42, 134,  52, 248,
+        15,  89, 149, 158, 227,
+        25, 231
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  80, 53, 148, 206,
+        161, 120, 91, 121,  35,
+        120, 124
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  80, 53, 148, 206,
+        161, 120, 91, 121,  35,
+        120, 130
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  80, 53, 148, 206,
+        161, 120, 91, 121,  35,
+        120, 135
+      ]
+    }
+  ],
+  branchId: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+       98,  74, 240,  36,  31,
+       96,  65, 210, 226, 229,
+      183, 220
+    ]
+  },
+  fullPhoneNumber: '+256701196985',
+  realmUserId: null
+}
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+       98,  86,  4, 56, 82,
+      189, 240, 34, 65, 76,
+      134, 234
+    ]
+  },
+  _seed: 'Natukunda Miriel',
+  firstName: 'Miriel',
+  lastName: 'Natukunda',
+  role: 'areaManager',
+  branchIds: [
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  74, 240,  36,  31,
+         96,  65, 210, 226, 229,
+        183, 218
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98,  85, 21,  45,  20,
+        39, 129, 22, 148, 140,
+         3,  29
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  47, 184,  79, 171,
+        251, 180, 201, 126, 211,
+        100,  86
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         97,  21, 15,  41, 108,
+        152, 142, 99, 217, 249,
+        202, 101
+      ]
+    }
+  ],
+  branchId: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+       98,  74, 240,  36,  31,
+       96,  65, 210, 226, 229,
+      183, 218
+    ]
+  },
+  fullPhoneNumber: '+256704985105',
+  realmUserId: null
+}
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+       98,  86,  4, 56, 82,
+      189, 240, 34, 65, 76,
+      134, 235
+    ]
+  },
+  _seed: 'Namukasa Mariam',
+  firstName: 'Mariam',
+  lastName: 'Namukasa',
+  role: 'areaManager',
+  branchIds: [
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98, 65, 186, 81,   3,
+        24, 48,  12, 80, 198,
+        44, 85
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  56, 109, 54, 203,
+        160, 124, 227, 63, 198,
+          2,  85
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  74, 240,  36,  31,
+         96,  65, 210, 226, 229,
+        183, 216
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98, 65, 186, 81,   3,
+        24, 48,  12, 80, 198,
+        44, 89
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98,  85, 21,  45,  20,
+        39, 129, 22, 148, 140,
+         3,  31
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98,  42, 134,  52, 248,
+        15,  89, 149, 158, 227,
+        25, 225
+      ]
+    }
+  ],
+  branchId: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 85
+    ]
+  },
+  fullPhoneNumber: '+256705492818',
+  realmUserId: null
+}
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+       98,  86,  4, 56, 82,
+      189, 240, 34, 65, 76,
+      134, 236
+    ]
+  },
+  _seed: 'Akankunda Maria Gemma',
+  firstName: 'Maria Gemma',
+  lastName: 'Akankunda',
+  role: 'areaManager',
+  branchIds: [
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98,  42, 134,  52, 248,
+        15,  89, 149, 158, 227,
+        25, 243
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98, 65, 186, 81,   3,
+        24, 48,  12, 80, 198,
+        44, 87
+      ]
+    },
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+        98,  42, 134,  52, 248,
+        15,  89, 149, 158, 227,
+        25, 248
+      ]
+    }
+  ],
+  branchId: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98,  42, 134,  52, 248,
+      15,  89, 149, 158, 227,
+      25, 243
+    ]
+  },
+  fullPhoneNumber: '+256780394568',
+  realmUserId: null
+}
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+       98,  86,  4, 56, 82,
+      189, 240, 34, 65, 76,
+      134, 237
+    ]
+  },
+  _seed: 'Odyek Isaac',
+  firstName: 'Isaac',
+  lastName: 'Odyek',
+  role: 'areaManager',
+  branchIds: [
+    ObjectID {
+      _bsontype: 'ObjectID',
+      id: Buffer(12) [Uint8Array] [
+         98,  74, 240,  36,  31,
+         96,  65, 210, 226, 229,
+        183, 220
+      ]
+    }
+  ],
+  branchId: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+       98,  74, 240,  36,  31,
+       96,  65, 210, 226, 229,
+      183, 220
+    ]
+  },
+  fullPhoneNumber: '+256755489987',
+  realmUserId: null
+}
+Collection securityBalances
+Adding users
+Done.
+Done in 9.06s.

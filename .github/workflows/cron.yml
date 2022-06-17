@@ -1,0 +1,24 @@
+name: Cron
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14.15'
+          cache: 'yarn'
+
+      - run: yarn install --pure-lockfile
+
+      - run: node tools/scheduled/updateOverdue.js
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}

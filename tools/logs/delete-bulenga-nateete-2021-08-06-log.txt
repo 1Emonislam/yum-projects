@@ -1,0 +1,14 @@
+Branches [ '60faacd43f752f2c90f52f55', '60f5c76a89038baaad50d15d' ]
+┌─────────┬──────────┬────────┬──────────┬─────────┬───────┬───────┬──────┐
+│ (index) │ branches │ groups │ meetings │ clients │ loans │ users │ cahs │
+├─────────┼──────────┼────────┼──────────┼─────────┼───────┼───────┼──────┤
+│    0    │    2     │  103   │   111    │  1174   │  953  │  10   │  0   │
+└─────────┴──────────┴────────┴──────────┴─────────┴───────┴───────┴──────┘
+Renaming loans and meetings collections
+Aggregating…
+{
+  ok: true,
+  results: { loan: [], clientGroupsMeetings: [] },
+  meetingEventsCount: 17013
+}
+Done.

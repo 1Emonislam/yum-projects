@@ -1,0 +1,344 @@
+yarn run v1.22.17
+$ yarn workspace tools import:users --file users-2022-03-28.csv --env production --force imreallyreallysure --debug --verbose
+$ babel-node -o '../shared' -o '.' -i '../shared/node_modules' -i './node_modules' import-users.js --file users-2022-03-28.csv --env production --force imreallyreallysure --debug --verbose
+Importing as per date 2022-03-28
+[tools] › ℹ  info      Importing file /Users/chris/workspace/yam/yam/tools/users-2022-03-28.csv
+
+[tools] › ℹ  info      Importing file /Users/chris/workspace/yam/yam/tools/initial-values.csv
+
+
+
+                                      
+                                      
+             DANGER ZONE              
+                                      
+                                      
+
+
+[tools] › …  awaiting  Seeding protected environment production in 5
+[tools] › …  awaiting  Seeding protected environment production in 4
+[tools] › …  awaiting  Seeding protected environment production in 3
+[tools] › …  awaiting  Seeding protected environment production in 2
+[tools] › …  awaiting  Seeding protected environment production in 1
+[tools] › …  awaiting  Seeding protected environment production in 0
+----------------------
+{
+  '+256701214008': 'start-distance-confident',
+  '+256774984030': 'vacation-they-contain',
+  '+256756078016': 'hotel-combination-insight'
+}
+----------------------
+{
+  branches: [
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 85
+        ]
+      },
+      name: 'Kansanga',
+      initDate: 2022-03-27T22:00:00.000Z,
+      initOpeningBalance: 0,
+      code: 'B011',
+      address: {
+        street: 'Plot 667',
+        area: undefined,
+        subcounty: 'Nakawa',
+        county: 'Nakawa',
+        district: 'Kampala'
+      },
+      others: {},
+      status: 'active'
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 87
+        ]
+      },
+      name: 'Kasese 1',
+      initDate: 2022-03-27T22:00:00.000Z,
+      initOpeningBalance: 228000,
+      code: 'B012',
+      address: {
+        street: 'Plot 667',
+        area: undefined,
+        subcounty: 'Nakawa',
+        county: 'Nakawa',
+        district: 'Kampala'
+      },
+      others: {},
+      status: 'active'
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 89
+        ]
+      },
+      name: 'Nateete',
+      initDate: 2022-03-27T22:00:00.000Z,
+      initOpeningBalance: 143200,
+      code: 'B013',
+      address: {
+        street: 'Plot 667',
+        area: undefined,
+        subcounty: 'Nakawa',
+        county: 'Nakawa',
+        district: 'Kampala'
+      },
+      others: {},
+      status: 'active'
+    }
+  ],
+  clientGroupMeetings: [],
+  clientGroups: [],
+  clients: [],
+  clientsToUpdate: [],
+  forms: [],
+  holidays: [],
+  loanProducts: [],
+  loans: [],
+  settings: [],
+  users: [
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 86
+        ]
+      },
+      _seed: 'Kissa Micheal',
+      firstName: 'Micheal',
+      lastName: 'Kissa',
+      role: 'branchManager',
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 85
+        ]
+      },
+      fullPhoneNumber: '+256701214008',
+      realmUserId: null
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 88
+        ]
+      },
+      _seed: 'Komugisha Janipher',
+      firstName: 'Janipher',
+      lastName: 'Komugisha',
+      role: 'branchManager',
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 87
+        ]
+      },
+      fullPhoneNumber: '+256774984030',
+      realmUserId: null
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 90
+        ]
+      },
+      _seed: 'Sabano Oliver',
+      firstName: 'Oliver',
+      lastName: 'Sabano',
+      role: 'branchManager',
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 89
+        ]
+      },
+      fullPhoneNumber: '+256756078016',
+      realmUserId: null
+    }
+  ],
+  securityBalances: []
+}
+Collection branches
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 85
+    ]
+  },
+  name: 'Kansanga',
+  initDate: 2022-03-27T22:00:00.000Z,
+  initOpeningBalance: 0,
+  code: 'B011',
+  address: {
+    street: 'Plot 667',
+    area: undefined,
+    subcounty: 'Nakawa',
+    county: 'Nakawa',
+    district: 'Kampala'
+  },
+  others: {},
+  status: 'active'
+}
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 87
+    ]
+  },
+  name: 'Kasese 1',
+  initDate: 2022-03-27T22:00:00.000Z,
+  initOpeningBalance: 228000,
+  code: 'B012',
+  address: {
+    street: 'Plot 667',
+    area: undefined,
+    subcounty: 'Nakawa',
+    county: 'Nakawa',
+    district: 'Kampala'
+  },
+  others: {},
+  status: 'active'
+}
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 89
+    ]
+  },
+  name: 'Nateete',
+  initDate: 2022-03-27T22:00:00.000Z,
+  initOpeningBalance: 143200,
+  code: 'B013',
+  address: {
+    street: 'Plot 667',
+    area: undefined,
+    subcounty: 'Nakawa',
+    county: 'Nakawa',
+    district: 'Kampala'
+  },
+  others: {},
+  status: 'active'
+}
+Collection clientGroupMeetings
+Collection clientGroups
+Collection clients
+Collection clientsToUpdate
+Collection forms
+Collection holidays
+Collection loanProducts
+Collection loans
+Collection settings
+Collection users
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 86
+    ]
+  },
+  _seed: 'Kissa Micheal',
+  firstName: 'Micheal',
+  lastName: 'Kissa',
+  role: 'branchManager',
+  branchId: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 85
+    ]
+  },
+  fullPhoneNumber: '+256701214008',
+  realmUserId: null
+}
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 88
+    ]
+  },
+  _seed: 'Komugisha Janipher',
+  firstName: 'Janipher',
+  lastName: 'Komugisha',
+  role: 'branchManager',
+  branchId: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 87
+    ]
+  },
+  fullPhoneNumber: '+256774984030',
+  realmUserId: null
+}
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 90
+    ]
+  },
+  _seed: 'Sabano Oliver',
+  firstName: 'Oliver',
+  lastName: 'Sabano',
+  role: 'branchManager',
+  branchId: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 89
+    ]
+  },
+  fullPhoneNumber: '+256756078016',
+  realmUserId: null
+}
+Collection securityBalances
+Adding new branches
+Adding users
+Done.
+Done in 8.95s.

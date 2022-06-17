@@ -1,0 +1,27 @@
+[context."cah-2.0"]
+  command = "touch shared/yamsecrets.js && yarn build:web --env staging"
+
+[context."cah-2.0".environment]
+  REACT_APP_API_URL = "https://staging.api.yamafrica.com"
+
+[context."fix-collections-overview"]
+  command = "touch shared/yamsecrets.js && yarn build:web --env staging2"
+
+[context."fix-collections-overview".environment]
+  REACT_APP_API_URL = "https://staging2.api.yamafrica.com"
+
+[context."bm-collections-overview"]
+  command = "touch shared/yamsecrets.js && yarn build:web --env bm-collections-overview"
+
+[context."bm-collections-overview".environment]
+  REACT_APP_API_URL = "https://bm-collections-overview.api.yamafrica.com"
+  
+[[redirects]]
+  from = "/android"
+  to = "https://yamafrica.s3.eu-central-1.amazonaws.com/apk/yam-2.20.3.apk"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+ 

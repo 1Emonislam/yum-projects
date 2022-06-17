@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@assets": ["./mobile/assets"],
+      "@config": ["./mobile/config"],
+      "@constants": ["./mobile/constants"],
+      "@data": ["./mobile/data"],
+      "@screens": ["./mobile/components/screens"],
+      "@atoms": ["./mobile/components/atoms"],
+      "@molecules": ["./mobile/components/molecules"],
+      "@organisms": ["./mobile/components/organisms"],
+      "@navigation": ["./mobile/navigation"],
+      "@services": ["./mobile/services"],
+      "@providers": ["./mobile/providers"],
+      "@hooks": ["./mobile/hooks"],
+      "@utils": ["./mobile/utils"],
+      "@icons": ["./mobile/components/icons"],
+      "@images": ["./mobile/components/images"]
+    }
+  },
+  "exclude": ["node_modules"]
+}

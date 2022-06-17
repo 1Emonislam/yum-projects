@@ -1,0 +1,151 @@
+❯ node tools/deleteBranchData.js --env production  --force imreallyreallysure
+
+
+
+
+             DANGER ZONE
+
+
+
+
+[tools] › …  awaiting  Deleting branch data on protected environment production in 0
+Groups [
+  {
+    _id: 613f48adf3b0f505d2696784,
+    createdAt: 2021-09-13T12:48:45.932Z,
+    updatedAt: 2021-09-13T12:48:45.932Z,
+    name: '',
+    branchId: 6130b62f7e01aa5e378d59bb,
+    loanOfficerId: 613f48adf3b0f505d2696783,
+    code: 'G194',
+    meeting: {
+      dayOfWeek: null,
+      address: '',
+      lat: '0',
+      lng: '0',
+      time: '',
+      frequency: 'weekly'
+    },
+    startedAt: 2021-09-13T12:48:45.110Z,
+    status: 'active'
+  },
+  {
+    _id: 613f48adf3b0f505d2696788,
+    createdAt: 2021-09-13T12:48:45.932Z,
+    updatedAt: 2021-09-13T12:48:45.932Z,
+    name: '',
+    branchId: 613f48adf3b0f505d2696786,
+    loanOfficerId: 613f48adf3b0f505d2696787,
+    code: 'G195',
+    meeting: {
+      dayOfWeek: null,
+      address: '',
+      lat: '0',
+      lng: '0',
+      time: '',
+      frequency: 'weekly'
+    },
+    startedAt: 2021-09-13T12:48:45.111Z,
+    status: 'active'
+  },
+  {
+    _id: 613f48adf3b0f505d269678b,
+    createdAt: 2021-09-13T12:48:45.932Z,
+    updatedAt: 2021-09-13T12:48:45.932Z,
+    name: '',
+    branchId: 6130b62f7e01aa5e378d59b7,
+    loanOfficerId: 613f48adf3b0f505d269678a,
+    code: 'G196',
+    meeting: {
+      dayOfWeek: null,
+      address: '',
+      lat: '0',
+      lng: '0',
+      time: '',
+      frequency: 'weekly'
+    },
+    startedAt: 2021-09-13T12:48:45.111Z,
+    status: 'active'
+  },
+  {
+    _id: 613f48adf3b0f505d269678e,
+    createdAt: 2021-09-13T12:48:45.932Z,
+    updatedAt: 2021-09-13T12:48:45.932Z,
+    name: '',
+    branchId: 6130b62f7e01aa5e378d59b9,
+    loanOfficerId: 613f48adf3b0f505d269678d,
+    code: 'G197',
+    meeting: {
+      dayOfWeek: null,
+      address: '',
+      lat: '0',
+      lng: '0',
+      time: '',
+      frequency: 'weekly'
+    },
+    startedAt: 2021-09-13T12:48:45.111Z,
+    status: 'active'
+  },
+  {
+    _id: 613f48adf3b0f505d2696791,
+    createdAt: 2021-09-13T12:48:45.932Z,
+    updatedAt: 2021-09-13T12:48:45.932Z,
+    name: '',
+    branchId: 6130b62f7e01aa5e378d59af,
+    loanOfficerId: 613f48adf3b0f505d2696790,
+    code: 'G198',
+    meeting: {
+      dayOfWeek: null,
+      address: '',
+      lat: '0',
+      lng: '0',
+      time: '',
+      frequency: 'weekly'
+    },
+    startedAt: 2021-09-13T12:48:45.111Z,
+    status: 'active'
+  }
+]
+┌─────────┬────────┬──────────┬─────────┬───────┬──────────┐
+│ (index) │ groups │ meetings │ clients │ loans │ feedback │
+├─────────┼────────┼──────────┼─────────┼───────┼──────────┤
+│    0    │   5    │    0     │    9    │   0   │    0     │
+└─────────┴────────┴──────────┴─────────┴───────┴──────────┘
+Deleting events [
+  "613f48adf3b0f505d2696784",
+  "613f48adf3b0f505d2696788",
+  "613f48adf3b0f505d269678b",
+  "613f48adf3b0f505d269678e",
+  "613f48adf3b0f505d2696791",
+  "613f48adf3b0f505d26967f5",
+  "613f48adf3b0f505d26967f6",
+  "613f48adf3b0f505d26967f7",
+  "613f48adf3b0f505d26967f8",
+  "613f48adf3b0f505d26967f9",
+  "613f48adf3b0f505d26967fa",
+  "613f48adf3b0f505d26967fb",
+  "613f48adf3b0f505d26967fc",
+  "613f48adf3b0f505d26967fd"
+]
+Deleting from clientGroups [
+  "613f48adf3b0f505d2696784",
+  "613f48adf3b0f505d2696788",
+  "613f48adf3b0f505d269678b",
+  "613f48adf3b0f505d269678e",
+  "613f48adf3b0f505d2696791"
+]
+Deleting from clientGroupsMeetings []
+Deleting from clients [
+  "613f48adf3b0f505d26967f5",
+  "613f48adf3b0f505d26967f6",
+  "613f48adf3b0f505d26967f7",
+  "613f48adf3b0f505d26967f8",
+  "613f48adf3b0f505d26967f9",
+  "613f48adf3b0f505d26967fa",
+  "613f48adf3b0f505d26967fb",
+  "613f48adf3b0f505d26967fc",
+  "613f48adf3b0f505d26967fd"
+]
+Deleting from loans []
+Deleting from feedback []
+Done.

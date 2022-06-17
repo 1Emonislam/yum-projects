@@ -1,0 +1,1188 @@
+[
+  {
+    "_id": "6130ec6b9f15506b3b63eed6",
+    "type": "update",
+    "obj": "client",
+    "objId": "6126a4cf357d1dca7ce06526",
+    "payload": { "loans": ["6126a8f9357d1dca7ce06527"] },
+    "timestamp": "2021-09-02T15:23:23.978Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec6d9f15506b3b63eed7",
+    "type": "update",
+    "obj": "client",
+    "objId": "61259ebed0cc024e245b86b3",
+    "payload": { "loans": ["6125a0f7d0cc024e245b86b4"] },
+    "timestamp": "2021-09-02T15:23:25.042Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec6e9f15506b3b63eed8",
+    "type": "update",
+    "obj": "client",
+    "objId": "6124ebe766c43555a1b23b24",
+    "payload": { "loans": ["6124f80362cebe7a22f46327"] },
+    "timestamp": "2021-09-02T15:23:26.301Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec6e9f15506b3b63eed9",
+    "type": "update",
+    "obj": "client",
+    "objId": "61244e72973efff83da885b4",
+    "payload": { "loans": ["6124508c973efff83da885b5"] },
+    "timestamp": "2021-09-02T15:23:26.450Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec6e9f15506b3b63eeda",
+    "type": "update",
+    "obj": "client",
+    "objId": "61244e46973efff83da885b3",
+    "payload": { "loans": ["61245335973efff83da885cc"] },
+    "timestamp": "2021-09-02T15:23:26.603Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec6e9f15506b3b63eedb",
+    "type": "update",
+    "obj": "client",
+    "objId": "61244e11973efff83da885b2",
+    "payload": { "loans": ["612455c705a5311fa0804828"] },
+    "timestamp": "2021-09-02T15:23:26.756Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec6e9f15506b3b63eedc",
+    "type": "update",
+    "obj": "client",
+    "objId": "61244dac973efff83da885b1",
+    "payload": { "loans": ["612458a705a5311fa080483f"] },
+    "timestamp": "2021-09-02T15:23:26.910Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec6f9f15506b3b63eedd",
+    "type": "update",
+    "obj": "client",
+    "objId": "61244d4a973efff83da885b0",
+    "payload": { "loans": ["6125a9aed0cc024e245b86f9"] },
+    "timestamp": "2021-09-02T15:23:27.064Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec6f9f15506b3b63eede",
+    "type": "update",
+    "obj": "client",
+    "objId": "61244d0d973efff83da885af",
+    "payload": { "loans": ["6125a72fd0cc024e245b86e2"] },
+    "timestamp": "2021-09-02T15:23:27.223Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec6f9f15506b3b63eedf",
+    "type": "update",
+    "obj": "client",
+    "objId": "6123d1ac44aad1b8eecac600",
+    "payload": { "loans": ["6123d4e5c2409e1801f34be0"] },
+    "timestamp": "2021-09-02T15:23:27.377Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec6f9f15506b3b63eee0",
+    "type": "update",
+    "obj": "client",
+    "objId": "6123c4abe17a098462cc4fec",
+    "payload": { "loans": ["612798280c8e9277018a7d08"] },
+    "timestamp": "2021-09-02T15:23:27.537Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec6f9f15506b3b63eee1",
+    "type": "update",
+    "obj": "client",
+    "objId": "6123c461e17a098462cc4feb",
+    "payload": { "loans": ["61279b050c8e9277018a7d36"] },
+    "timestamp": "2021-09-02T15:23:27.694Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec6f9f15506b3b63eee2",
+    "type": "update",
+    "obj": "client",
+    "objId": "6123c423e17a098462cc4fea",
+    "payload": { "loans": ["6127aa900c8e9277018a7d4d"] },
+    "timestamp": "2021-09-02T15:23:27.849Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec709f15506b3b63eee3",
+    "type": "update",
+    "obj": "client",
+    "objId": "6123c3e2e17a098462cc4fe9",
+    "payload": { "loans": ["6127990f0c8e9277018a7d1f"] },
+    "timestamp": "2021-09-02T15:23:28.003Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec709f15506b3b63eee4",
+    "type": "update",
+    "obj": "client",
+    "objId": "6123c3aae17a098462cc4fe8",
+    "payload": { "loans": ["6127ac2b0c8e9277018a7d64"] },
+    "timestamp": "2021-09-02T15:23:28.157Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec709f15506b3b63eee5",
+    "type": "update",
+    "obj": "client",
+    "objId": "6123c368e17a098462cc4fe7",
+    "payload": { "loans": ["612667ca3c302f213e594013"] },
+    "timestamp": "2021-09-02T15:23:28.310Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec709f15506b3b63eee6",
+    "type": "update",
+    "obj": "client",
+    "objId": "6123c33be17a098462cc4fe6",
+    "payload": { "loans": ["612663723c302f213e593ffc"] },
+    "timestamp": "2021-09-02T15:23:28.466Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec709f15506b3b63eee7",
+    "type": "update",
+    "obj": "client",
+    "objId": "6123b75de17a098462cc4fe4",
+    "payload": { "loans": ["6123c8e4e17a098462cc4fed"] },
+    "timestamp": "2021-09-02T15:23:28.621Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec709f15506b3b63eee8",
+    "type": "update",
+    "obj": "client",
+    "objId": "61223f7557fb5eebf0ecee2c",
+    "payload": { "loans": ["612266e857fb5eebf0eceea0"] },
+    "timestamp": "2021-09-02T15:23:28.777Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec709f15506b3b63eee9",
+    "type": "update",
+    "obj": "client",
+    "objId": "61216c5887454dda39d28b8d",
+    "payload": { "loans": ["6121de7c06ed209864f5fe67"] },
+    "timestamp": "2021-09-02T15:23:28.931Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec719f15506b3b63eeea",
+    "type": "update",
+    "obj": "client",
+    "objId": "61216c2487454dda39d28b8c",
+    "payload": { "loans": ["6121db4706ed209864f5fe50"] },
+    "timestamp": "2021-09-02T15:23:29.090Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec719f15506b3b63eeeb",
+    "type": "update",
+    "obj": "client",
+    "objId": "61216bca87454dda39d28b8b",
+    "payload": { "loans": ["6121d83a06ed209864f5fe39"] },
+    "timestamp": "2021-09-02T15:23:29.244Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec719f15506b3b63eeec",
+    "type": "update",
+    "obj": "client",
+    "objId": "61216b8887454dda39d28b8a",
+    "payload": { "loans": ["6121707787454dda39d28b8e"] },
+    "timestamp": "2021-09-02T15:23:29.400Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec719f15506b3b63eeed",
+    "type": "update",
+    "obj": "client",
+    "objId": "61216b5487454dda39d28b89",
+    "payload": { "loans": ["61217a4f87454dda39d28ba5"] },
+    "timestamp": "2021-09-02T15:23:29.553Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec719f15506b3b63eeee",
+    "type": "update",
+    "obj": "client",
+    "objId": "61216b2087454dda39d28b88",
+    "payload": { "loans": ["61217d9187454dda39d28bbc"] },
+    "timestamp": "2021-09-02T15:23:29.707Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec729f15506b3b63eeef",
+    "type": "update",
+    "obj": "client",
+    "objId": "611f3794f8feab9745b607ac",
+    "payload": { "loans": ["611f94555f05fcb0c96a414d"] },
+    "timestamp": "2021-09-02T15:23:30.162Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec729f15506b3b63eef0",
+    "type": "update",
+    "obj": "client",
+    "objId": "611e81bea520c6c2dff7070c",
+    "payload": { "loans": ["611e8d1ea520c6c2dff7070d"] },
+    "timestamp": "2021-09-02T15:23:30.777Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec729f15506b3b63eef1",
+    "type": "update",
+    "obj": "client",
+    "objId": "611e7ea0a520c6c2dff706f4",
+    "payload": { "loans": ["611e8169a520c6c2dff706f5"] },
+    "timestamp": "2021-09-02T15:23:30.935Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec739f15506b3b63eef2",
+    "type": "update",
+    "obj": "client",
+    "objId": "611e7a72a520c6c2dff706dc",
+    "payload": { "loans": ["611e7ddaa520c6c2dff706dd"] },
+    "timestamp": "2021-09-02T15:23:31.087Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec739f15506b3b63eef3",
+    "type": "update",
+    "obj": "client",
+    "objId": "611e79d4f8feab9745b607ab",
+    "payload": { "loans": ["61277dd334c1635a55ca1b27"] },
+    "timestamp": "2021-09-02T15:23:31.241Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec739f15506b3b63eef4",
+    "type": "update",
+    "obj": "client",
+    "objId": "611e7994f8feab9745b607aa",
+    "payload": { "loans": ["6127a08750360751603e4f14"] },
+    "timestamp": "2021-09-02T15:23:31.394Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec739f15506b3b63eef5",
+    "type": "update",
+    "obj": "client",
+    "objId": "611e7203fc51e69f11b973fe",
+    "payload": { "loans": ["611e764bfc51e69f11b973ff"] },
+    "timestamp": "2021-09-02T15:23:31.698Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec739f15506b3b63eef6",
+    "type": "update",
+    "obj": "client",
+    "objId": "611e71c8fc51e69f11b973fd",
+    "payload": { "loans": ["611e7b0cfc51e69f11b97416"] },
+    "timestamp": "2021-09-02T15:23:31.853Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec749f15506b3b63eef7",
+    "type": "update",
+    "obj": "client",
+    "objId": "611e7185fc51e69f11b973fc",
+    "payload": { "loans": ["611e7eb8fc51e69f11b9742d"] },
+    "timestamp": "2021-09-02T15:23:32.007Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec749f15506b3b63eef8",
+    "type": "update",
+    "obj": "client",
+    "objId": "611e4be3aaf2d8193fc253a9",
+    "payload": { "loans": ["611e73f8f45996b24313904f"] },
+    "timestamp": "2021-09-02T15:23:32.160Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec749f15506b3b63eef9",
+    "type": "update",
+    "obj": "client",
+    "objId": "611de25e9f7a7552d5dab392",
+    "payload": { "loans": ["612766405e98fd3da47dbda4"] },
+    "timestamp": "2021-09-02T15:23:32.314Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec749f15506b3b63eefa",
+    "type": "update",
+    "obj": "client",
+    "objId": "611d66dfa6f5ebad9daa6486",
+    "payload": { "loans": ["612076b38ec51902544674bd"] },
+    "timestamp": "2021-09-02T15:23:32.469Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec749f15506b3b63eefb",
+    "type": "update",
+    "obj": "client",
+    "objId": "611d2a4e71df506cdc3ac34b",
+    "payload": { "loans": ["6130badfaaac65f01896ddd8"] },
+    "timestamp": "2021-09-02T15:23:32.776Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec759f15506b3b63eefc",
+    "type": "update",
+    "obj": "client",
+    "objId": "611be8be699a3b4469bbf453",
+    "payload": { "loans": ["612247cf57fb5eebf0ecee44"] },
+    "timestamp": "2021-09-02T15:23:33.082Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec759f15506b3b63eefd",
+    "type": "update",
+    "obj": "client",
+    "objId": "611be892699a3b4469bbf452",
+    "payload": { "loans": ["6122604457fb5eebf0ecee89"] },
+    "timestamp": "2021-09-02T15:23:33.237Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec759f15506b3b63eefe",
+    "type": "update",
+    "obj": "client",
+    "objId": "611be861699a3b4469bbf451",
+    "payload": { "loans": ["61224bfc57fb5eebf0ecee5b"] },
+    "timestamp": "2021-09-02T15:23:33.391Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec759f15506b3b63eeff",
+    "type": "update",
+    "obj": "client",
+    "objId": "611be829699a3b4469bbf450",
+    "payload": { "loans": ["612259fc57fb5eebf0ecee72"] },
+    "timestamp": "2021-09-02T15:23:33.544Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec759f15506b3b63ef00",
+    "type": "update",
+    "obj": "client",
+    "objId": "611be7c7699a3b4469bbf44e",
+    "payload": { "loans": ["6122431657fb5eebf0ecee2d"] },
+    "timestamp": "2021-09-02T15:23:33.852Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec769f15506b3b63ef01",
+    "type": "update",
+    "obj": "client",
+    "objId": "611bc2e5342a5f4f0f4bbd83",
+    "payload": { "loans": ["611bd93f342a5f4f0f4bbd84"] },
+    "timestamp": "2021-09-02T15:23:34.007Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec769f15506b3b63ef02",
+    "type": "update",
+    "obj": "client",
+    "objId": "611a6e2af6132f5d9671fc35",
+    "payload": { "loans": ["612cd68382cbeaab6dadcf8d"] },
+    "timestamp": "2021-09-02T15:23:34.310Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec769f15506b3b63ef03",
+    "type": "update",
+    "obj": "client",
+    "objId": "611a6ddaf6132f5d9671fc34",
+    "payload": { "loans": ["6123d3825de91fdd9089bfda"] },
+    "timestamp": "2021-09-02T15:23:34.460Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec769f15506b3b63ef04",
+    "type": "update",
+    "obj": "client",
+    "objId": "611a6daaf6132f5d9671fc33",
+    "payload": { "loans": ["612cd91a82cbeaab6dadcfa4"] },
+    "timestamp": "2021-09-02T15:23:34.615Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec769f15506b3b63ef05",
+    "type": "update",
+    "obj": "client",
+    "objId": "6116610b96a23e9cb1ff5e2f",
+    "payload": { "loans": ["6126b820357d1dca7ce06555"] },
+    "timestamp": "2021-09-02T15:23:34.769Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec769f15506b3b63ef06",
+    "type": "update",
+    "obj": "client",
+    "objId": "611660d196a23e9cb1ff5e2e",
+    "payload": { "loans": ["6127b260d7e8af2531dc3a61"] },
+    "timestamp": "2021-09-02T15:23:34.923Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec779f15506b3b63ef07",
+    "type": "update",
+    "obj": "client",
+    "objId": "6116608996a23e9cb1ff5e2d",
+    "payload": { "loans": ["6127bbfdd7e8af2531dc3a78"] },
+    "timestamp": "2021-09-02T15:23:35.076Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec779f15506b3b63ef08",
+    "type": "update",
+    "obj": "client",
+    "objId": "6116603196a23e9cb1ff5e2c",
+    "payload": { "loans": ["6126b392357d1dca7ce0653e"] },
+    "timestamp": "2021-09-02T15:23:35.231Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec779f15506b3b63ef09",
+    "type": "update",
+    "obj": "client",
+    "objId": "61165fa396a23e9cb1ff5e2a",
+    "payload": { "loans": ["61272a86b13fe8c3446ad5b8"] },
+    "timestamp": "2021-09-02T15:23:35.534Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec779f15506b3b63ef0a",
+    "type": "update",
+    "obj": "client",
+    "objId": "6115508bd8ae041e058a3379",
+    "payload": { "loans": ["61279af8067a911dd8315781"] },
+    "timestamp": "2021-09-02T15:23:35.996Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec789f15506b3b63ef0b",
+    "type": "update",
+    "obj": "client",
+    "objId": "6115168fd615c78943753134",
+    "payload": { "loans": ["611541acd8ae041e058a335f"] },
+    "timestamp": "2021-09-02T15:23:36.762Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec789f15506b3b63ef0c",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfb77",
+    "payload": { "loans": ["61206e568ec51902544674a6"] },
+    "timestamp": "2021-09-02T15:23:36.916Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec799f15506b3b63ef0d",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfb73",
+    "payload": { "loans": ["611e7095fc51e69f11b973e5"] },
+    "timestamp": "2021-09-02T15:23:37.537Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec799f15506b3b63ef0e",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfb72",
+    "payload": { "loans": ["611e82a1fc51e69f11b97444"] },
+    "timestamp": "2021-09-02T15:23:37.691Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec7a9f15506b3b63ef0f",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfb6f",
+    "payload": { "loans": ["61259e42d0cc024e245b869c"] },
+    "timestamp": "2021-09-02T15:23:38.149Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec7d9f15506b3b63ef10",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfb5c",
+    "payload": { "loans": ["611bb185342a5f4f0f4bbd6c"] },
+    "timestamp": "2021-09-02T15:23:41.077Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec869f15506b3b63ef11",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfb1f",
+    "payload": { "loans": ["611e746ba520c6c2dff706ae"] },
+    "timestamp": "2021-09-02T15:23:50.485Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec889f15506b3b63ef12",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfb13",
+    "payload": { "loans": ["611e79c3a520c6c2dff706c5"] },
+    "timestamp": "2021-09-02T15:23:52.333Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec899f15506b3b63ef13",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfb09",
+    "payload": {
+      "loans": [
+        "611d3aca1ae4efdb29df6091",
+        "611d3aed1ae4efdb29df60a8",
+        "611d42e21da3d16d9f57cb0a"
+      ]
+    },
+    "timestamp": "2021-09-02T15:23:53.872Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec8a9f15506b3b63ef14",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfb07",
+    "payload": {
+      "loans": [
+        "611d36281ae4efdb29df604c",
+        "611d365b1ae4efdb29df6063",
+        "611d36761ae4efdb29df607a",
+        "6123965dac31e20a2578178c"
+      ]
+    },
+    "timestamp": "2021-09-02T15:23:54.181Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec8c9f15506b3b63ef15",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfaf9",
+    "payload": {
+      "loans": ["61150f3fbd778a63e54bfd78", "612cd9c3ef4635c46459f3d7"]
+    },
+    "timestamp": "2021-09-02T15:23:56.347Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec8c9f15506b3b63ef16",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfaf7",
+    "payload": {
+      "loans": ["61150f3fbd778a63e54bfd76", "612ce06def4635c46459f405"]
+    },
+    "timestamp": "2021-09-02T15:23:56.658Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec8c9f15506b3b63ef17",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfaf6",
+    "payload": {
+      "loans": ["61150f3fbd778a63e54bfd75", "612ce4b8ef4635c46459f41c"]
+    },
+    "timestamp": "2021-09-02T15:23:56.813Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec8c9f15506b3b63ef18",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfaf5",
+    "payload": {
+      "loans": ["61150f3fbd778a63e54bfd74", "612cdd44ef4635c46459f3ee"]
+    },
+    "timestamp": "2021-09-02T15:23:56.968Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec909f15506b3b63ef19",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfade",
+    "payload": {
+      "loans": ["61150f3fbd778a63e54bfd5e", "612d2a3a3363e44c7e045ef1"]
+    },
+    "timestamp": "2021-09-02T15:24:00.509Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec959f15506b3b63ef1a",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfabc",
+    "payload": { "loans": ["6127a7cd50360751603e4f2b"] },
+    "timestamp": "2021-09-02T15:24:05.741Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec9a9f15506b3b63ef1b",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfa9c",
+    "payload": {
+      "loans": ["61150f3fbd778a63e54bfd20", "6123965dac31e20a2578178a"]
+    },
+    "timestamp": "2021-09-02T15:24:10.685Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec9b9f15506b3b63ef1c",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfa98",
+    "payload": { "loans": ["61233753da3d60969b25bb1b"] },
+    "timestamp": "2021-09-02T15:24:11.305Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec9f9f15506b3b63ef1d",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfa7c",
+    "payload": { "loans": ["61266e8fd400b2a59846090f"] },
+    "timestamp": "2021-09-02T15:24:15.615Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ec9f9f15506b3b63ef1e",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfa7b",
+    "payload": {
+      "loans": [
+        "61150f3fbd778a63e54bfd05",
+        "612f87c1541637325985ff9b",
+        "612f87ef541637325985ffb2",
+        "612f8cdc541637325985ffc9",
+        "612f8cf0541637325985ffe0",
+        "612f8d19541637325985fff7",
+        "612f8d44541637325986000e",
+        "612f8e12f9ca619279904feb",
+        "612f8e2af9ca619279905002",
+        "612f902bf9ca619279905019",
+        "612f906ef9ca619279905030",
+        "612f90a1f9ca619279905047",
+        "612f90c8f9ca61927990505e",
+        "612f90def9ca619279905075"
+      ]
+    },
+    "timestamp": "2021-09-02T15:24:15.772Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130eca09f15506b3b63ef1f",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfa76",
+    "payload": {
+      "loans": ["61150f3fbd778a63e54bfd00", "6127e67d50360751603e4f44"]
+    },
+    "timestamp": "2021-09-02T15:24:16.536Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130eca59f15506b3b63ef20",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfa58",
+    "payload": { "loans": ["611d3ad5965ef93340e4dcf6"] },
+    "timestamp": "2021-09-02T15:24:21.146Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecac9f15506b3b63ef21",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfa29",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfcbd", "6128e0efbe1f7dcde40f518e"]
+    },
+    "timestamp": "2021-09-02T15:24:28.376Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecae9f15506b3b63ef22",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfa1e",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfcb2", "611f8c9b7ef75c1ed4db7136"]
+    },
+    "timestamp": "2021-09-02T15:24:30.054Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecaf9f15506b3b63ef23",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bfa13",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfca7", "6130b6dbaaac65f01896ddc1"]
+    },
+    "timestamp": "2021-09-02T15:24:31.725Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecb39f15506b3b63ef24",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf9fb",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc91", "612f7cf7cf97de67dd9986c6"]
+    },
+    "timestamp": "2021-09-02T15:24:35.429Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecb39f15506b3b63ef25",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf9f9",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc8f", "612f828acf97de67dd9986f4"]
+    },
+    "timestamp": "2021-09-02T15:24:35.737Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecb49f15506b3b63ef26",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf9f6",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc8c", "612f802ccf97de67dd9986dd"]
+    },
+    "timestamp": "2021-09-02T15:24:36.200Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecb49f15506b3b63ef27",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf9f3",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc89", "611d00769d8126090acc0a48"]
+    },
+    "timestamp": "2021-09-02T15:24:36.664Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecb59f15506b3b63ef28",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf9ef",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc85", "611d10c99d8126090acc0a5f"]
+    },
+    "timestamp": "2021-09-02T15:24:37.282Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecb59f15506b3b63ef29",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf9ed",
+    "payload": { "loans": ["611cfbda9d8126090acc0a31"] },
+    "timestamp": "2021-09-02T15:24:37.590Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecb79f15506b3b63ef2a",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf9e1",
+    "payload": { "loans": ["611d353271df506cdc3ac34c"] },
+    "timestamp": "2021-09-02T15:24:39.444Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecb79f15506b3b63ef2b",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf9e0",
+    "payload": { "loans": ["611d161a9d8126090acc0a76"] },
+    "timestamp": "2021-09-02T15:24:39.599Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecb89f15506b3b63ef2c",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf9dd",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc76", "611d416a71df506cdc3ac363"]
+    },
+    "timestamp": "2021-09-02T15:24:40.060Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecb99f15506b3b63ef2d",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf9d3",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc6c", "612e31b58c5f2935e4b5862d"]
+    },
+    "timestamp": "2021-09-02T15:24:41.598Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecb99f15506b3b63ef2e",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf9d1",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc6a", "612e342f8c5f2935e4b58644"]
+    },
+    "timestamp": "2021-09-02T15:24:41.906Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecba9f15506b3b63ef2f",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf9cf",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc68", "6123965dac31e20a25781788"]
+    },
+    "timestamp": "2021-09-02T15:24:42.214Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecc29f15506b3b63ef30",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf998",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc32", "6123d139c2409e1801f34bc9"]
+    },
+    "timestamp": "2021-09-02T15:24:50.701Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecc69f15506b3b63ef31",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf980",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc1d", "61224a688e13875656852f03"]
+    },
+    "timestamp": "2021-09-02T15:24:54.390Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecc69f15506b3b63ef32",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf97f",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc1c", "61223d0f8e13875656852ed5"]
+    },
+    "timestamp": "2021-09-02T15:24:54.544Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecc79f15506b3b63ef33",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf97c",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc19", "612233548e13875656852ebe"]
+    },
+    "timestamp": "2021-09-02T15:24:55.007Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecc79f15506b3b63ef34",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf97a",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc17", "612243018e13875656852eec"]
+    },
+    "timestamp": "2021-09-02T15:24:55.310Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecc79f15506b3b63ef35",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf976",
+    "payload": {
+      "loans": [
+        "61150f3ebd778a63e54bfc13",
+        "61224fbb8e13875656852f1a",
+        "61232b461bfd2bed62b39ef6"
+      ]
+    },
+    "timestamp": "2021-09-02T15:24:55.927Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecca9f15506b3b63ef36",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf963",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfc00", "612796ee735e6395ab7087c1"]
+    },
+    "timestamp": "2021-09-02T15:24:58.854Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130eccb9f15506b3b63ef37",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf95d",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfbfb", "611e8040f45996b243139094"]
+    },
+    "timestamp": "2021-09-02T15:24:59.770Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130eccc9f15506b3b63ef38",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf95b",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfbf9", "611e7837f45996b243139066"]
+    },
+    "timestamp": "2021-09-02T15:25:00.081Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130eccc9f15506b3b63ef39",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf959",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfbf7", "611e7adaf45996b24313907d"]
+    },
+    "timestamp": "2021-09-02T15:25:00.389Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130eccc9f15506b3b63ef3a",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf958",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfbf6", "611e82e5f45996b2431390ab"]
+    },
+    "timestamp": "2021-09-02T15:25:00.543Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecd09f15506b3b63ef3b",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf93c",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfbdf", "612f85d6a4eaf86734a8e9d1"]
+    },
+    "timestamp": "2021-09-02T15:25:04.861Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecd19f15506b3b63ef3c",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf938",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfbdb", "6125a3a2d0cc024e245b86cb"]
+    },
+    "timestamp": "2021-09-02T15:25:05.479Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecd39f15506b3b63ef3d",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf92c",
+    "payload": {
+      "loans": ["61150f3ebd778a63e54bfbd1", "611d229c71df506cdc3ac31c"]
+    },
+    "timestamp": "2021-09-02T15:25:07.324Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecd59f15506b3b63ef3e",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf921",
+    "payload": {
+      "loans": [
+        "61150f3dbd778a63e54bfbc6",
+        "611bc33c4a2a8b9c3487dc4c",
+        "611bc3514a2a8b9c3487dc63",
+        "611bc3804a2a8b9c3487dc7a",
+        "611bc3964a2a8b9c3487dc91",
+        "611bc3bc4a2a8b9c3487dca8",
+        "611be11fd4fc166586e665e3",
+        "611be18ad4fc166586e665fa",
+        "611be19ed4fc166586e66611",
+        "611be1b3d4fc166586e66628",
+        "611be1fbd4fc166586e6663f",
+        "611be25ed4fc166586e66656",
+        "611be5022ba97d178b084632",
+        "611be5742ba97d178b084649",
+        "6123965dac31e20a25781786"
+      ]
+    },
+    "timestamp": "2021-09-02T15:25:09.021Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecd79f15506b3b63ef3f",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf912",
+    "payload": { "loans": ["611d262871df506cdc3ac333"] },
+    "timestamp": "2021-09-02T15:25:11.328Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecd89f15506b3b63ef40",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf90c",
+    "payload": {
+      "loans": ["61150f3dbd778a63e54bfbb7", "612e37c10142370390f6f6cb"]
+    },
+    "timestamp": "2021-09-02T15:25:12.247Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecdb9f15506b3b63ef41",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf8fa",
+    "payload": { "loans": ["612ce65782cbeaab6dadcfbb"] },
+    "timestamp": "2021-09-02T15:25:15.016Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecdd9f15506b3b63ef42",
+    "type": "update",
+    "obj": "client",
+    "objId": "61150f3dbd778a63e54bf8eb",
+    "payload": {
+      "loans": ["61150f3dbd778a63e54bfb98", "61234f99a67505a06a71307d"]
+    },
+    "timestamp": "2021-09-02T15:25:17.319Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecdf9f15506b3b63ef43",
+    "type": "update",
+    "obj": "client",
+    "objId": "612cdb1c1b7a5d34c9a72a38",
+    "payload": { "loans": ["612f45de0c69aa106e2fb4ab"] },
+    "timestamp": "2021-09-02T15:25:19.308Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecdf9f15506b3b63ef44",
+    "type": "update",
+    "obj": "client",
+    "objId": "612cdb1c1b7a5d34c9a72a39",
+    "payload": { "loans": ["612f4e680c69aa106e2fb4d9"] },
+    "timestamp": "2021-09-02T15:25:19.462Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecdf9f15506b3b63ef45",
+    "type": "update",
+    "obj": "client",
+    "objId": "612cdb1c1b7a5d34c9a72a3a",
+    "payload": { "loans": ["612f49b10c69aa106e2fb4c2"] },
+    "timestamp": "2021-09-02T15:25:19.616Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ece09f15506b3b63ef46",
+    "type": "update",
+    "obj": "client",
+    "objId": "612cdb1c1b7a5d34c9a72a3f",
+    "payload": {
+      "loans": ["6130895f46e5e6c11adc7511", "61308aca46e5e6c11adc7528"]
+    },
+    "timestamp": "2021-09-02T15:25:20.384Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ece09f15506b3b63ef47",
+    "type": "update",
+    "obj": "client",
+    "objId": "612cdb1c1b7a5d34c9a72a41",
+    "payload": { "loans": ["6130906a46e5e6c11adc753f"] },
+    "timestamp": "2021-09-02T15:25:20.692Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ece19f15506b3b63ef48",
+    "type": "update",
+    "obj": "client",
+    "objId": "612cdb1c1b7a5d34c9a72a43",
+    "payload": { "loans": ["613098d046e5e6c11adc7556"] },
+    "timestamp": "2021-09-02T15:25:21.000Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ece69f15506b3b63ef49",
+    "type": "update",
+    "obj": "client",
+    "objId": "612cdb1c1b7a5d34c9a72a65",
+    "payload": { "loans": ["6130df91466db49dc280a992"] },
+    "timestamp": "2021-09-02T15:25:26.166Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ece89f15506b3b63ef4a",
+    "type": "update",
+    "obj": "client",
+    "objId": "612cdb1c1b7a5d34c9a72a74",
+    "payload": { "loans": ["6130e5af466db49dc280a9a9"] },
+    "timestamp": "2021-09-02T15:25:28.442Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  },
+  {
+    "_id": "6130ecfc9f15506b3b63ef4b",
+    "type": "update",
+    "obj": "client",
+    "objId": "612e3eed67c8034f909f50a3",
+    "payload": { "loans": ["612e47f40142370390f6f6e2"] },
+    "timestamp": "2021-09-02T15:25:48.880Z",
+    "migration": "1630595138-fix-client-loans-objects.js"
+  }
+]

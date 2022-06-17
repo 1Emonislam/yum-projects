@@ -1,0 +1,30 @@
+yarn run v1.22.11
+$ yarn workspace tools import:users --file users-2022-03-14.csv --env production --date 2022-03-14 --debug --force imreallyreallysure
+$ babel-node -o '../shared' -o '.' -i '../shared/node_modules' -i './node_modules' import-users.js --file users-2022-03-14.csv --env production --date 2022-03-14 --debug --force imreallyreallysure
+Importing as per date 2022-03-14
+[tools] › ℹ  info      Importing file /Users/chris/workspace/yam/yam/tools/users-2022-03-14.csv
+
+[tools] › ℹ  info      Importing file /Users/chris/workspace/yam/yam/tools/initial-values.csv
+
+
+
+                                      
+                                      
+             DANGER ZONE              
+                                      
+                                      
+
+
+[tools] › …  awaiting  Seeding protected environment production in 5
+[tools] › …  awaiting  Seeding protected environment production in 4
+[tools] › …  awaiting  Seeding protected environment production in 3
+[tools] › …  awaiting  Seeding protected environment production in 2
+[tools] › …  awaiting  Seeding protected environment production in 1
+[tools] › …  awaiting  Seeding protected environment production in 0
+----------------------
+{ '+256704741838': 'technique-aide-fish' }
+----------------------
+Adding new branches
+Adding users
+Done.
+Done in 9.18s.

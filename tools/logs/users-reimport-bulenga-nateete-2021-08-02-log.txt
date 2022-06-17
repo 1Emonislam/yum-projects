@@ -1,0 +1,27 @@
+yarn run v1.22.10
+$ yarn workspace tools import:users --env yam-production --file users-reimport-bulenga-nateete-2021-08-02.csv --date 2021-08-02 --debug --force imreallyreallysure
+$ babel-node -o '../shared' -o '.' -i '../shared/node_modules' -i './node_modules' import-users.js --env yam-production --file users-reimport-bulenga-nateete-2021-08-02.csv --date 2021-08-02 --debug --force imreallyreallysure
+Importing as per date 2021-08-02
+[tools] › ℹ  info      Importing file tools/users-reimport-bulenga-nateete-2021-08-02.csv
+
+[tools] › ℹ  info      Importing file tools/initial-values.csv
+
+
+
+                                      
+                                      
+             DANGER ZONE              
+                                      
+                                      
+
+
+[tools] › …  awaiting  Seeding protected environment yam-production in 5
+[tools] › …  awaiting  Seeding protected environment yam-production in 4
+[tools] › …  awaiting  Seeding protected environment yam-production in 3
+[tools] › …  awaiting  Seeding protected environment yam-production in 2
+[tools] › …  awaiting  Seeding protected environment yam-production in 1
+[tools] › …  awaiting  Seeding protected environment yam-production in 0
+Adding new branches
+Adding users
+Done.
+Done in 12.51s.

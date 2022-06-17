@@ -1,0 +1,26 @@
+{
+  "root": true,
+  "parser": "babel-eslint",
+  "extends": ["prettier", "eslint:recommended", "plugin:react/recommended"],
+  "plugins": ["prettier", "react", "react-native", "react-hooks"],
+  "env": {
+    "es6": true,
+    "node": true,
+    "browser": true,
+    "jest": true
+  },
+  "globals": {
+    "fetch": false,
+    "EJSON": true,
+    "BSON": true,
+    "context": true,
+    "assert": true
+  },
+  "rules": {
+    "prettier/prettier": "error",
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn",
+    "react/prop-types": ["off", { "ignore": ["route", "navigation"] }],
+    "react/display-name": ["off", { "ignoreTranspilerName": false }]
+  }
+}

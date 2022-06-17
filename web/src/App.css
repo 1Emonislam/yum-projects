@@ -1,0 +1,29 @@
+body {
+  overscroll-behavior: none;
+}
+
+a {
+  color: inherit;
+}
+
+a[role='row'] {
+  text-decoration: none;
+}
+
+strong,
+b {
+  font-weight: 500 !important;
+}
+
+.list-interpunct {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.list-interpunct > li:before {
+  content: '・';
+  float: left;
+  margin: 0 0 0 -0.9em;
+  width: 0.9em;
+}

@@ -1,0 +1,81 @@
+% yarn import:data --file import-2022-03-16-test.csv --env dev-greg --dry-run
+yarn run v1.22.17
+$ yarn workspace tools import:data --file import-2022-03-16-test.csv --env dev-greg --dry-run
+$ babel-node -o '../shared' -o '.' -i '../shared/node_modules' -i './node_modules' import.js --file import-2022-03-16-test.csv --env dev-greg --dry-run
+Importing as per date 2022-03-16
+[tools] › ℹ  info      Importing file /Users/g/Documents/Arabella/Code/yam/tools/import-2022-03-16-test.csv
+[tools] › ℹ  info      Importing file /Users/g/Documents/Arabella/Code/yam/tools/initial-values.csv
+
+----------------------
+{}
+----------------------
+{
+  branches: [],
+  clientGroupMeetings: [],
+  clientGroups: [],
+  clients: [
+    {
+      _id: '62322097f4c68f929ad59d30',
+      code: 'C3907',
+      firstName: 'Greg',
+      lastName: 'Wolanski',
+      clientGroupId: '622fb88ead3769c9ad2a4386',
+      photo: '',
+      admission: { address: 'Gayaza market', notes: '' },
+      admissionAt: 2020-11-29T21:00:00.000Z,
+      lastRenewalAt: null,
+      loans: [ '62322097f4c68f929ad59d4e' ],
+      status: 'active',
+      passbookIdentifier: '1',
+      securityBalance: 777000
+    }
+  ],
+  clientsToUpdate: [],
+  forms: [],
+  holidays: [],
+  loanProducts: [],
+  loans: [
+    {
+      _id: '62322097f4c68f929ad59d4e',
+      clientId: '62322097f4c68f929ad59d30',
+      clientGroupId: '622fb88ead3769c9ad2a4386',
+      branchId: '622fb84fabfbb4c97ed36456'
+    }
+  ],
+  settings: [],
+  users: [],
+  securityBalances: [
+    {
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  47, 184,  79, 171,
+          251, 180, 201, 126, 211,
+          100,  86
+        ]
+      },
+      clientId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  50,  32, 151, 244,
+          198, 143, 146, 154, 213,
+          157,  48
+        ]
+      },
+      comment: 'Security balance from import',
+      openingSecurityBalance: 0,
+      closingSecurityBalance: 777000,
+      change: 777000,
+      date: 2022-01-23T21:00:00.000Z,
+      loanId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           98,  50,  32, 151, 244,
+          198, 143, 146, 154, 213,
+          157,  78
+        ]
+      }
+    }
+  ]
+}
+✨  Done in 5.12s.

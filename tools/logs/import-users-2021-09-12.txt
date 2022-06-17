@@ -1,0 +1,159 @@
+yarn run v1.22.10
+$ yarn workspace tools import:users --env production --date 2021-09-12 --file import-users-2021-09-12.csv --force imreallyreallysure --debug --verbose
+$ babel-node -o '../shared' -o '.' -i '../shared/node_modules' -i './node_modules' import-users.js --env production --date 2021-09-12 --file import-users-2021-09-12.csv --force imreallyreallysure --debug --verbose
+Importing as per date 2021-09-12
+[tools] › ℹ  info      Importing file /Users/chris/workspace/yam/yam/tools/import-users-2021-09-12.csv
+
+[tools] › ℹ  info      Importing file /Users/chris/workspace/yam/yam/tools/initial-values.csv
+
+
+
+                                      
+                                      
+             DANGER ZONE              
+                                      
+                                      
+
+
+[tools] › …  awaiting  Seeding protected environment production in 5
+[tools] › …  awaiting  Seeding protected environment production in 4
+[tools] › …  awaiting  Seeding protected environment production in 3
+[tools] › …  awaiting  Seeding protected environment production in 2
+[tools] › …  awaiting  Seeding protected environment production in 1
+[tools] › …  awaiting  Seeding protected environment production in 0
+{
+  branches: [
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           97, 63, 164, 191, 96,
+          155, 86,  31, 224, 63,
+           85, 48
+        ]
+      },
+      name: 'Fort Portal 1',
+      initDate: 2021-09-12T22:00:00.000Z,
+      initOpeningBalance: 262900,
+      code: 'B012',
+      address: {
+        street: 'Plot 667',
+        area: undefined,
+        subcounty: 'Nakawa',
+        county: 'Nakawa',
+        district: 'Kampala'
+      },
+      others: {},
+      status: 'active'
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           97, 63, 164, 191, 96,
+          155, 86,  31, 224, 63,
+           85, 50
+        ]
+      },
+      name: 'Fort Portal 2',
+      initDate: 2021-09-12T22:00:00.000Z,
+      initOpeningBalance: 72900,
+      code: 'B013',
+      address: {
+        street: 'Plot 667',
+        area: undefined,
+        subcounty: 'Nakawa',
+        county: 'Nakawa',
+        district: 'Kampala'
+      },
+      others: {},
+      status: 'active'
+    }
+  ],
+  clientGroupMeetings: [],
+  clientGroups: [],
+  clients: [],
+  forms: [],
+  holidays: [],
+  loanProducts: [],
+  loans: [],
+  settings: [],
+  users: [
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           97, 63, 164, 191, 96,
+          155, 86,  31, 224, 63,
+           85, 47
+        ]
+      },
+      _seed: 'Nakalanzi Neorine Grace',
+      firstName: 'Neorine Grace',
+      lastName: 'Nakalanzi',
+      role: 'branchManager',
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           97,  63, 72, 173, 243,
+          176, 245,  5, 210, 105,
+          103, 134
+        ]
+      },
+      fullPhoneNumber: '+256756427342',
+      realmUserId: null
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           97, 63, 164, 191, 96,
+          155, 86,  31, 224, 63,
+           85, 49
+        ]
+      },
+      _seed: 'Akankunda Maria Gemma',
+      firstName: 'Maria Gemma',
+      lastName: 'Akankunda',
+      role: 'branchManager',
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           97, 63, 164, 191, 96,
+          155, 86,  31, 224, 63,
+           85, 48
+        ]
+      },
+      fullPhoneNumber: '+256780394568',
+      realmUserId: null
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           97, 63, 164, 191, 96,
+          155, 86,  31, 224, 63,
+           85, 51
+        ]
+      },
+      _seed: 'Kasirye Charles',
+      firstName: 'Charles',
+      lastName: 'Kasirye',
+      role: 'branchManager',
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+           97, 63, 164, 191, 96,
+          155, 86,  31, 224, 63,
+           85, 50
+        ]
+      },
+      fullPhoneNumber: '+256774189019',
+      realmUserId: null
+    }
+  ]
+}
+Adding new branches
+Adding users
+Done.
+Done in 8.46s.

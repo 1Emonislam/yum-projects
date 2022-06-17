@@ -1,0 +1,206 @@
+
+
+                                      
+                                      
+             DANGER ZONE              
+                                      
+                                      
+
+
+[tools] › …  awaiting  Deleting branch data on protected environment production in 5
+[tools] › …  awaiting  Deleting branch data on protected environment production in 4
+[tools] › …  awaiting  Deleting branch data on protected environment production in 3
+[tools] › …  awaiting  Deleting branch data on protected environment production in 2
+[tools] › …  awaiting  Deleting branch data on protected environment production in 1
+[tools] › …  awaiting  Deleting branch data on protected environment production in 0
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb23/clients All times
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb25/clients Victory
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb27/clients Victory
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb2b/clients Kitala
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb33/clients God is powerful
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb3b/clients Mukama mulungi
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb2a/clients Kitala
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb26/clients Victory
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb29/clients Kitala
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb32/clients God is powerful
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb37/clients Mukama mulungi
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb38/clients Mukama mulungi
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb39/clients Mukama mulungi
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb3e/clients Mukama mulungi
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb3a/clients Mukama mulungi
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb3c/clients Mukama mulungi
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb3d/clients Mukama mulungi
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb2c/clients Kitala
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb2f/clients God is able
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb31/clients God is powerful
+https://app.yamafrica.com/groups/6222877ce4c629433c22eb35/clients Asobola
+[
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb23,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb25,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb27,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb2b,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb33,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb3b,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb2a,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb26,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb29,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb32,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb37,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb38,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb39,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb3e,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb3a,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb3c,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb3d,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb2c,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb2f,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb31,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  },
+  {
+    obj: 'clientGroup',
+    type: 'delete',
+    objId: 6222877ce4c629433c22eb35,
+    timestamp: 2022-03-15T11:11:23.101Z,
+    importId: 6230745b6341feef49d38925,
+    importNotes: 'Delete empty duplicate Groups due to wrong import'
+  }
+]

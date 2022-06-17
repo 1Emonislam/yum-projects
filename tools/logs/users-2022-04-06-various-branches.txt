@@ -1,0 +1,204 @@
+yarn run v1.22.17
+$ yarn workspace tools import:users --file users-2022-04-06-various-branches.csv --env production --debug --verbose --force=ImReallyReallySure
+$ babel-node -o '../shared' -o '.' -i '../shared/node_modules' -i './node_modules' import-users.js --file users-2022-04-06-various-branches.csv --env production --debug --verbose --force=ImReallyReallySure
+Importing as per date 2022-04-07
+[tools] › ℹ  info      Importing file /Users/kitili/dev/akili-vc/yam/tools/users-2022-04-06-various-branches.csv
+
+[tools] › ℹ  info      Importing file /Users/kitili/dev/akili-vc/yam/tools/initial-values.csv
+
+
+
+                                      
+                                      
+             DANGER ZONE              
+                                      
+                                      
+
+
+[tools] › …  awaiting  Seeding protected environment production in 5
+[tools] › …  awaiting  Seeding protected environment production in 4
+[tools] › …  awaiting  Seeding protected environment production in 3
+[tools] › …  awaiting  Seeding protected environment production in 2
+[tools] › …  awaiting  Seeding protected environment production in 1
+[tools] › …  awaiting  Seeding protected environment production in 0
+----------------------
+{
+  '+256772711125': 'rely-behind-generation',
+  '+256777249610': 'occupy-waste-orange',
+  '+256700108770': 'criteria-defensive-provider'
+}
+----------------------
+{
+  branches: [],
+  clientGroupMeetings: [],
+  clientGroups: [],
+  clients: [],
+  clientsToUpdate: [],
+  forms: [],
+  holidays: [],
+  loanProducts: [],
+  loans: [],
+  settings: [],
+  users: [
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98,  78, 174,  87, 154,
+          44, 130, 141, 173, 221,
+          37,  26
+        ]
+      },
+      _seed: 'Lyahinda Micah',
+      firstName: 'Micah',
+      lastName: 'Lyahinda',
+      role: 'branchManager',
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 87
+        ]
+      },
+      fullPhoneNumber: '+256772711125',
+      realmUserId: null
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98,  78, 174,  87, 154,
+          44, 130, 141, 173, 221,
+          37,  27
+        ]
+      },
+      _seed: 'Bigambo Joel',
+      firstName: 'Joel',
+      lastName: 'Bigambo',
+      role: 'branchManager',
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 87
+        ]
+      },
+      fullPhoneNumber: '+256777249610',
+      realmUserId: null
+    },
+    {
+      _id: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98,  78, 174,  87, 154,
+          44, 130, 141, 173, 221,
+          37,  28
+        ]
+      },
+      _seed: 'Kyansimire Anita',
+      firstName: 'Anita',
+      lastName: 'Kyansimire',
+      role: 'loanOfficer',
+      branchId: ObjectID {
+        _bsontype: 'ObjectID',
+        id: Buffer(12) [Uint8Array] [
+          98, 65, 186, 81,   3,
+          24, 48,  12, 80, 198,
+          44, 85
+        ]
+      },
+      fullPhoneNumber: '+256700108770',
+      realmUserId: null
+    }
+  ],
+  securityBalances: []
+}
+Collection branches
+Collection clientGroupMeetings
+Collection clientGroups
+Collection clients
+Collection clientsToUpdate
+Collection forms
+Collection holidays
+Collection loanProducts
+Collection loans
+Collection settings
+Collection users
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98,  78, 174,  87, 154,
+      44, 130, 141, 173, 221,
+      37,  26
+    ]
+  },
+  _seed: 'Lyahinda Micah',
+  firstName: 'Micah',
+  lastName: 'Lyahinda',
+  role: 'branchManager',
+  branchId: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 87
+    ]
+  },
+  fullPhoneNumber: '+256772711125',
+  realmUserId: null
+}
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98,  78, 174,  87, 154,
+      44, 130, 141, 173, 221,
+      37,  27
+    ]
+  },
+  _seed: 'Bigambo Joel',
+  firstName: 'Joel',
+  lastName: 'Bigambo',
+  role: 'branchManager',
+  branchId: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 87
+    ]
+  },
+  fullPhoneNumber: '+256777249610',
+  realmUserId: null
+}
+{
+  _id: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98,  78, 174,  87, 154,
+      44, 130, 141, 173, 221,
+      37,  28
+    ]
+  },
+  _seed: 'Kyansimire Anita',
+  firstName: 'Anita',
+  lastName: 'Kyansimire',
+  role: 'loanOfficer',
+  branchId: ObjectID {
+    _bsontype: 'ObjectID',
+    id: Buffer(12) [Uint8Array] [
+      98, 65, 186, 81,   3,
+      24, 48,  12, 80, 198,
+      44, 85
+    ]
+  },
+  fullPhoneNumber: '+256700108770',
+  realmUserId: null
+}
+Collection securityBalances
+Adding users
+Done.
+Done in 12.16s.

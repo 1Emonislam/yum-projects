@@ -1,0 +1,43 @@
+﻿S/N;Branch Name;Loan Officer Name;Group Name;Meeting day;Member Last Name;Member Middle Name;Member First Name;Member phone number;First installment collection date ;Weekly Frequency;Detailed addresses;Group meeting time;Group meeting address;Loan officer phone number;Client passbook identifiers;Chairperson, secretary, cashier;Loan Cycle;Member Admission Date; Security Balance ;Disbursement Date; Principal Amount ; Interest Amount ;Interest Rate(%); Disbursed Amount ;Total number Installment; Installment Amount ; Outstanding Amount 
+1;Fort Portal 1;Nsugwa Lydia;AGATERINE;Monday;nyakaisiki;;joan;0750885835;;Weekly;BURUNGU;09:00AM;BURUNGU;+256785342565;;;;14/03/2022;;;;;;;;;
+2;Fort Portal 1;Nsugwa Lydia;unity;Tuesday;katusiime;;margret;0788127204;;Weekly; BUHEESI;09:00AM; BUHEESI;+256785342565;;;;29/03/2022;;;;;;;;;
+3;Fort Portal 1;Nsugwa Lydia;Butinda;Tuesday;kajumba;;teddy;0774131390;;Weekly;Mugusu;10:00AM;Mugusu;+256785342565;;;;05/04/2022;;;;;;;;;
+4;Fort Portal 1;Nsugwa Lydia;Birayoroba;Tuesday;kembabazi;;doreen;0760879451;;Weekly;Burungu;11:00AM;Burungu;+256785342565;;;;01/03/2022;;;;;;;;;
+5;Fort Portal 1;Nsugwa Lydia; TRUST;Thursday;nsungwa ;;winnie;0778894948;;Weekly;KIHONDO;09:00AM;KIHONDO;+256785342565;;;;03/02/2022;;;;;;;;;
+6;Fort Portal 1;Nsugwa Lydia;KYAMATANGA WOMEN;Friday;kansiime;;rose;0783842769;;Weekly;KYAMATANGA;09:00AM;KYAMATANGA;+256785342565;;;;18/03/2022;;;;;;;;;
+7;Fort Portal 1;Nsugwa Lydia;KYAMATANGA WOMEN;Friday;kemigisa;;doreen;0777854400;;Weekly;KYAMATANGA;09:00AM;KYAMATANGA;+256785342565;;;;25/03/2022;;;;;;;;;
+8;Fort Portal 1;Kabachachi Sharon;KARAMAGA;Wednesday;mbabazi;;annet;0789562521;;Weekly;KARAMAGA;10:30AM;KARAMAGA;+256781854698;;;;06/04/2022;;;;;;;;;
+9;Fort Portal 1;Kabachachi Sharon;KARAMAGA;Wednesday;mbabazi;;agnes;0775223215;;Weekly;KARAMAGA;10:30AM;KARAMAGA;+256781854698;;;;07/04/2022;;;;;;;;;
+10;Fort Portal 1;Kabachachi Sharon;NYABUKARA;Monday;karungi ;;mafin;0754658951;;Weekly;NYABUKARA;10:30AM;NYABUKARA;+256781854698;;;;07/02/2022;;;;;;;;;
+11;Fort Portal 1;Kabachachi Sharon;ABAKYARA TWEYIMUKYE;Friday;kansiime;;teopista;0776235884;;Weekly;KASINDIKWA;11:30AM;KASINDIKWA;+256781854698;;;;18/03/2022;;;;;;;;;
+12;Fort Portal 1;aryaijuka derrick;TUKOLE;Monday;mbabazi ;;jane rose;0783345175;25/04/2022;Weekly;MUGUSU;09:00AM;MUGUSU;+256785342565;;;1;14/03/2022; 50 000 ;11/04/2022; 500 000 ; 75 000 ;15%; 575 000 ;23; 25 000 ; 575 000 
+13;Fort Portal 1;aryaijuka derrick;TUKOLE;Monday;timbiganda ;;jacinta;0781442888;25/04/2022;Weekly;MUGUSU;09:00AM;MUGUSU;+256785342565;;;1;14/03/2022; 30 000 ;11/04/2022; 300 000 ; 45 000 ;15%; 345 000 ;23; 15 000 ; 345 000 
+14;Fort Portal 1;aryaijuka derrick;BUKIIRE;Monday;kemigisha;;hadijja ;0787783160;25/04/2022;Weekly;KASUSU;10:30AM;KASUSU;+256785342565;;;1;04/04/2022; 50 000 ;12/04/2022; 500 000 ; 70 000 ;14%; 570 000 ;19; 30 000 ; 570 000 
+15;Fort Portal 1;Muhindo Neverless; NYABATAHI;Tuesday;nyakaisiki;;beatrice;0787961557;;Weekly; NYABATAHI;08:00AM; NYABATAHI;+256784582331;;;;12/04/2022;;;;;;;;;
+16;Fort Portal 1;Muhindo Neverless; NYABATAHI;Tuesday;ogoma;;babra;0789875980;;Weekly; NYABATAHI;09:00AM; NYABATAHI;+256784582331;;;;29/03/2022;;;;;;;;;
+17;Fort Portal 1;Muhindo Neverless; NYABATAHI;Tuesday;ahimbisibwe ;;phiona;0789223014;;Weekly; NYABATAHI;10:00AM; NYABATAHI;+256784582331;;;;15/03/2022;;;;;;;;;
+18;Fort Portal 1;Muhindo Neverless;OBUMU;Monday;kanyangi;;roseline;0787251452;;Weekly;BUTANGO;12:00AM;BUTANGO;+256784582331;;;;28/03/2022;;;;;;;;;
+19;Fort Portal 1;Muhindo Neverless;TWEKAMBE;Friday;kamuli;;stella;077183405;;Weekly;KIGUMA;12:00AM;KIGUMA;+256784582331;;;;18/03/2022;;;;;;;;;
+20;Fort Portal 1;Muhindo Neverless;TWEKAMBE;Friday;atuhaire;;annet;0789833754;;Weekly;KIGUMA;12:00AM;KIGUMA;+256784582331;;;;25/02/2022;;;;;;;;;
+21;Fort Portal 1;Muhindo Neverless;TWEKAMBE;Friday;birungi;;stella;0784534363;;Weekly;KIGUMA;12:00AM;KIGUMA;+256784582331;;;;04/03/2022;;;;;;;;;
+22;Fort Portal 1;Muhindo Neverless; BUBANDI;Wednesday;mbambu;;peace;0778868151;;Weekly;BUBANDI;08:00AM;BUBANDI;+256784582331;;;;23/03/2022;;;;;;;;;
+23;Fort Portal 1;Muhindo Neverless; BUBANDI;Wednesday;biira;;evasi;0787737049;;Weekly;BUBANDI;08:00AM;BUBANDI;+256784582331;;;;23/02/2022;;;;;;;;;
+24;Fort Portal 1;Muhindo Neverless; BUBANDI;Wednesday;biira;;constance;0775067303;;Weekly;BUBANDI;08:00AM;BUBANDI;+256784582331;;;;23/02/2022;;;;;;;;;
+25;Fort Portal 1;Muhindo Neverless; BUBANDI;Wednesday;muhindo;;mary;0784693054;;Weekly;BUBANDI;08:00AM;BUBANDI;+256784582331;;;;16/03/2022;;;;;;;;;
+26;Fort Portal 1;Muhindo Neverless;OBUMU;Monday;nabukenya ;;marion;0773626088;25/04/2022;Weekly;BUTANGO;12:00PM;BUTANGO;+256784582331;;;1;21/02/2022; 40 000 ;11/04/2022; 400 000 ; 60 000 ;15%; 460 000 ;23; 20 000 ; 460 000 
+27;Fort Portal 1;Muhindo Neverless;OBUMU;Monday;kasemire;;rose;0760625841;25/04/2022;Weekly;BUTANGO;12:00PM;BUTANGO;+256784582331;;;1;24/03/2022; 40 000 ;11/04/2022; 400 000 ; 60 000 ;15%; 460 000 ;23; 20 000 ; 460 000 
+28;Fort Portal 1;Muhindo Neverless;OBUMU;Monday;biira;;shadiah;0760619623;25/04/2022;Weekly;BUTANGO;12:00AM;BUTANGO;+256784582331;;;1;21/03/2022; 30 000 ;11/04/2022; 300 000 ; 45 000 ;15%; 345 000 ;23; 15 000 ; 345 000 
+29;buwama;irankunda jackline;kasozi;Wednesday;nassimbwa;;cate;'0705102088;;Weekly;kasozi,near bukemba church;10:00AM;kasozi;+256704122898;14;;;30/03/2022;;;;;;;;;
+30;buwama;NABIRYE PEACE;DIVINE;Wednesday;NANTONGO ;;AISHA;0752159556;06/04/2022;Weekly;DIVINE;10:00AM;KAMENGO;+256702975770;6;;2;27/10/2021; 90 000 ;30/03/2022; 600 000 ; 90 000 ;15%; 600 000 ;23; 30 000 ; 630 000 
+31;Kasangati;Namayanja magret;kyetume;Tuesday;milly;;Nassaka;;;Weekly;kasangati;12:00PM;kyetume;+256758195917;;;;;;;;;;;;;
+32;Kasangati;Namayanja magret;tuliwamu;Tuesday;annet;;Nakalema;0708936904;;Weekly;kasangati;09:00AM;bulamu;+256758195917;;;;;;;;;;;;;
+33;Kasangati;Naluwu Evelyn;makula;Monday;mary;;Nakiyemba;;;Weekly;kasangati;10:00AM;kyakima;+256752409524;;;;21/03/2022;;;;;;;;;
+34;Kasangati;Naluwu Evelyn;makula;Monday;catherine;;Nayebale;;;Weekly;kasangati;10:00AM;kyakima;+256752409524;;;;21/03/2022;;;;;;;;;
+35;Kasangati;Namayanja magret;chosen;Monday;Harriet;;Ayora;;;Weekly;kasangati;11:00AM;;+256758195917;;;;04/04/2022;;;;;;;;;
+36;Kasangati;Namayanja magret;chosen;Monday;magret;;namuyingo;;;Weekly;kasangati;11:00AM;;+256758195917;;;;04/04/2022;;;;;;;;;
+37;Kansanga;MARGRET NALUGO;FAVOUR;THURSDAY;GLADYS;;KAYAGA;0785147602;07/04/2022;Weekly;KITALANGA;01:00PM;KITALANGA;+256777904192;20;;1;17/03/2022; 50 000 ;31/03/2022; 500 000 ; 75 000 ;15%; 500 000 ;23; 25 000 ; 550 000 
+38;Kansanga;ANITA  kyasimire;HERITAGE;THURSDAY;BETTY;;ACHENG;0785921994;14/04/2022;Weekly;KITALANGA;10:00AM;KITALANGA NEAR MOSQUE;+256700108770;;;2;01/03/2022; 75 000 ;07/04/2022; 500 000 ; 75 000 ;15%; 500 000 ;23; 25 000 ; 575 000 
+39;Kansanga;ANITA  kyasimire;HERITAGE;THURSDAY;JANET;;TIBARWA;0701076135;14/04/2022;Weekly;KITALANGA;10:00AM;KITALANGA NEAR MOSQUE;+256700108770;;;1;03/03/2022; 40 000 ;07/04/2022; 400 000 ; 40 000 ;15%; 400 000 ;23; 20 000 ; 440 000 
+40;Kansanga;ANITA KYASSIMIRE;KWEGATA;TUESDAY;FAITH;;NADUNGA;0753413199;19/04/2022;Weekly;LUSAKA NEAR KALONGE SUPERMARKET;10:00AM;KALONGE ;+256700108770;14;;1;01/03/2022; 40 000 ;12/04/2022; 400 000 ; 60 000 ;15%; 400 000 ;23; 20 000 ; 460 000 
+41;Kansanga;ACHAYO ROSEMARY;TUSINZE;TUESDAY;CAROLINE;;MUSOKE;0752657373;01/03/2022;Weekly;COVER;10:00AM;GGABA;+256757589519;;;2;24/08/2021; 75 000 ;09/02/2022; 400 000 ; 60 000 ;13%; 400 000 ;20; 20 000 ; 310 000 
+42;kibuli;kawala immaculate;Terminal trinity;THURSDAY;Susan;;Ndibuuza;0758481830;31/03/2022;Weekly;kisenyi near bus terminal;08:00AM;kisenyi;+256753818154;;;1;18/01/2022; 50 000 ;25/03/2022; 500 000 ; 75 000 ;15%; 575 000 ;23; 25 000 ; 485 000 

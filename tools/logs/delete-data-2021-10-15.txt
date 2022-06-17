@@ -1,0 +1,90 @@
+
+
+                                      
+                                      
+             DANGER ZONE              
+                                      
+                                      
+
+
+[tools] › …  awaiting  Deleting branch data on protected environment production in 5
+[tools] › …  awaiting  Deleting branch data on protected environment production in 4
+[tools] › …  awaiting  Deleting branch data on protected environment production in 3
+[tools] › …  awaiting  Deleting branch data on protected environment production in 2
+[tools] › …  awaiting  Deleting branch data on protected environment production in 1
+[tools] › …  awaiting  Deleting branch data on protected environment production in 0
+┌─────────┬────────┬──────────┬─────────┬───────┬──────────┐
+│ (index) │ groups │ meetings │ clients │ loans │ feedback │
+├─────────┼────────┼──────────┼─────────┼───────┼──────────┤
+│    0    │   3    │    8     │   22    │  15   │    11    │
+└─────────┴────────┴──────────┴─────────┴───────┴──────────┘
+Deleting from clientGroups [
+  "613fa534980c6a203cabea16",
+  "613fa534980c6a203cabea1a",
+  "6155817f3420487c78a51ced"
+]
+Deleting from clientGroupsMeetings [
+  "61420fc62d8ca391ac3f37bd",
+  "614b0cc77d8aadbb6ec93a86",
+  "61543bb1858ded67a432efcf",
+  "615d60bf3420487c78a6a85d",
+  "6166aab55ca1b06798845ec9",
+  "6149a57e7d8aadbb6ec9315d",
+  "6152c9627d8aadbb6eca0cea",
+  "6166bfd7ce8eb67c7324b9ac"
+]
+Deleting from clients [
+  "613fa534980c6a203cabeb15",
+  "613fa534980c6a203cabeb16",
+  "613fa534980c6a203cabeb17",
+  "613fa534980c6a203cabeb18",
+  "613fa534980c6a203cabeb19",
+  "613fa534980c6a203cabeb1a",
+  "613fa534980c6a203cabeb1b",
+  "613fa534980c6a203cabeb3b",
+  "613fa534980c6a203cabeb3c",
+  "613fa534980c6a203cabeb3d",
+  "613fa534980c6a203cabeb3e",
+  "613fa534980c6a203cabeb3f",
+  "61407bf12d8ca391ac3f2e46",
+  "6143794a2d8ca391ac3f4060",
+  "6149a5c87d8aadbb6ec9315f",
+  "61544a883420487c78a500d7",
+  "6166ded756e25317bafabb87",
+  "615581a0c8278f0e6fea1a24",
+  "615581bb3420487c78a51cf0",
+  "615581d8c8278f0e6fea1a27",
+  "615581f63420487c78a51cf3",
+  "615582153420487c78a51cf6"
+]
+Deleting from loans [
+  "613fa534980c6a203cabebde",
+  "613fa534980c6a203cabebdf",
+  "613fa534980c6a203cabebe0",
+  "613fa534980c6a203cabebe1",
+  "61495e8669350d248e81bb1e",
+  "614b5efcfcb0c79610d2847c",
+  "61495b6569350d248e81bb07",
+  "614b62e9fcb0c79610d28493",
+  "614b6597fcb0c79610d284aa",
+  "6166d3c3aa4cec9a4c1adaa0",
+  "6162a1a35e543a4abcaf96ee",
+  "6162d2045e543a4abcaf971c",
+  "6162d3e95e543a4abcaf9733",
+  "6162cdd75e543a4abcaf9705",
+  "61644f77c4240348affa396a"
+]
+Deleting from feedback [
+  "61495b6569350d248e81bb09",
+  "61495e8669350d248e81bb20",
+  "614b5efcfcb0c79610d2847e",
+  "614b62e9fcb0c79610d28495",
+  "614b6597fcb0c79610d284ac",
+  "6162a1a35e543a4abcaf96f0",
+  "6162cdd75e543a4abcaf9707",
+  "6162d2045e543a4abcaf971e",
+  "6162d3e95e543a4abcaf9735",
+  "61644f77c4240348affa396c",
+  "6166d3c3aa4cec9a4c1adaa2"
+]
+Done.

@@ -1,0 +1,49 @@
+diff --git a/tools/prepareUsersData.js b/tools/prepareUsersData.js
+index 9ea86d25256de49fb8a18bebaaad5280142beecd..f3c91cedbd1807a6b4264892b63d8091ad357126 100644
+--- a/tools/prepareUsersData.js
++++ b/tools/prepareUsersData.js
+@@ -61,6 +61,36 @@ const prepareUsersData = async (rawRecords, initialValues, db) => {
+     data.users.push({ ...user, _meta: { existing: true } })
+   }
+ 
++  const excluded = [
++    'Fortportal 1',
++    'Fortportal 2',
++    'Kasese 2',
++    'Jinja 1',
++    'Jinja 2',
++    'Mukono',
++    'Kayunga',
++    'Namutumba',
++    'Bugiri',
++    'Iganga 1',
++    'Iganga 2',
++    'Mbale 1',
++    'Mbale 2',
++    'Nyendo',
++    'Masaka',
++    'Kinoni',
++    'Nankulabye',
++    'Jinja 2',
++    'Kayunga',
++    'Mukono',
++    'Kasese 2',
++    'Iganga 1',
++    'Iganga 2',
++    'Bugiri',
++    'Namutumba',
++    'Masaka',
++    'Kinoni',
++    'Nyendo',
++  ]
+   for (let record of records) {
+     if (record['branch name']) {
+       if (!cache.branches.includes(record['branch name'])) {
+@@ -73,6 +103,7 @@ const prepareUsersData = async (rawRecords, initialValues, db) => {
+     }
+ 
+     if (record.branches) {
++      record.branches = record.branches.filter(br => !excluded.includes(br))
+       for (let branchName of record.branches) {
+         if (!cache.branches.includes(branchName.trim())) {
+           data.branches.push({

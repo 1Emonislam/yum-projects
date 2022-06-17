@@ -1,0 +1,43 @@
+# Deploys apps to AWS Elastic Beanstalk. It takes the application name, environment name,
+# version name, region and filename as parameters, uploads the file to S3, creates a 
+# new version in Elastic Beanstalk, and then deploys that version to the environment
+
+# TODO: DRY this up in a later refactor.
+
+name: Deploy Production API
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout source code
+      uses: actions/checkout@v2
+
+    - name: set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14.15'
+        cache: 'yarn'
+
+    - run: yarn install --pure-lockfile
+
+    - name: Generate deployment package
+      run: zip -r ../deploy.zip . -x '*.git*'
+      working-directory: ./server
+
+    - name: Deploy to EB
+      uses: einaregilsson/beanstalk-deploy@v20
+      with:
+        aws_access_key: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        application_name: yam
+        environment_name: production
+        use_existing_version_if_available: true
+        version_label: ${{github.SHA}}
+        region: eu-central-1
+        deployment_package: deploy.zip
+        
