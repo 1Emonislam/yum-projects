@@ -30,7 +30,7 @@
     "ioredis": "^4.27.7",
     "jwt-decode": "^3.1.2",
     "lodash": "^4.17.21",
-    "moment-timezone": "^0.5.33",
+    "moment-timezone": "^0.5.35",
     "mongodb": "^4.0.1",
     "xlsx": "^0.17.0"
   },

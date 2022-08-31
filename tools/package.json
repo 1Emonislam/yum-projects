@@ -77,7 +77,7 @@
     "faker": "^5.4.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
-    "moment-timezone": "^0.5.33",
+    "moment-timezone": "^0.5.35",
     "mongodb": "3.6.3",
     "nanoid": "^3.1.20",
     "realm": "^10.2.0",
